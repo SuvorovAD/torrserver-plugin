@@ -1,7 +1,7 @@
 {
   "name": "TorrServer",
   "plugin_schema": "2",
-  "realese": "13.1-RELEASE",
+  "release": "13.2-RELEASE",
   "artifact": "https://github.com/SuvorovAD/torrserver-plugin.git",
   "official": false,
   "properties": {

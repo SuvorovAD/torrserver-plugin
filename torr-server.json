@@ -1,7 +1,7 @@
 {
   "name": "TorrServer",
   "plugin_schema": "2",
-  "realese": "13.1-RELEASE"
+  "realese": "13.1-RELEASE",
   "artifact": "https://github.com/SuvorovAD/torrserver-plugin.git",
   "official": false,
   "properties": {
@@ -10,9 +10,7 @@
     "dhcp": 1,
     "vnet": 1
   },
-  "pkgs": [
-
-  ],
+  "pkgs": [],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
   "fingerprints": {
     "iocage-plugins": [
